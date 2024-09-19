@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url("../images/dollars.jpg");
+    background-image: url(../images/dollars.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+}
